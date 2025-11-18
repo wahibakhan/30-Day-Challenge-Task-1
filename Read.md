@@ -48,6 +48,7 @@ b) Evaluating and improving AI outputs
 c) UI design
 d) Testing only
 → Answer: B
+
 5️⃣ What should developers focus on in the AI era?
 a) Syntax only
 b) Building reasoning + evaluation skills
@@ -55,3 +56,4 @@ c) Avoiding AI tools
 d) Manual workflows
 
 → Answer: B
+
